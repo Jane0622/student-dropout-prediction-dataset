@@ -2,6 +2,11 @@
 
 📊 Predicting academic dropout and success using real-world student data and Python-based analysis.
 
+## 📚 Dataset Source
+Dataset: [Student Dropout and Academic Success](https://www.kaggle.com/datasets/jessemostipak/student-dropout-and-academic-success)  
+Contains anonymized academic, demographic, and socioeconomic data for 4,424 students.
+
+
 ---
 
 ## 🧠 Project Summary
